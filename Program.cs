@@ -1,4 +1,8 @@
-﻿
+﻿/* Date: 11/18/2020
+ * Purpose: To demonstrate arrays and static methods of arrays
+ *          Also demonstrates that Arrays use IEnumerable.
+ * 
+ */
 
 using System;
 using System.Collections;

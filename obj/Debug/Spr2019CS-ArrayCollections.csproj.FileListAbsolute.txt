@@ -1,7 +1,0 @@
-C:\Users\zarreen\Documents\Visual Studio 2017\Projects\zf\Spr2019CS-ArrayCollections\Spr2019CS-ArrayCollections\bin\Debug\Spr2019CS-ArrayCollections.exe.config
-C:\Users\zarreen\Documents\Visual Studio 2017\Projects\zf\Spr2019CS-ArrayCollections\Spr2019CS-ArrayCollections\bin\Debug\Spr2019CS-ArrayCollections.exe
-C:\Users\zarreen\Documents\Visual Studio 2017\Projects\zf\Spr2019CS-ArrayCollections\Spr2019CS-ArrayCollections\bin\Debug\Spr2019CS-ArrayCollections.pdb
-C:\Users\zarreen\Documents\Visual Studio 2017\Projects\zf\Spr2019CS-ArrayCollections\Spr2019CS-ArrayCollections\obj\Debug\Spr2019CS-ArrayCollections.csprojAssemblyReference.cache
-C:\Users\zarreen\Documents\Visual Studio 2017\Projects\zf\Spr2019CS-ArrayCollections\Spr2019CS-ArrayCollections\obj\Debug\Spr2019CS-ArrayCollections.csproj.CoreCompileInputs.cache
-C:\Users\zarreen\Documents\Visual Studio 2017\Projects\zf\Spr2019CS-ArrayCollections\Spr2019CS-ArrayCollections\obj\Debug\Spr2019CS-ArrayCollections.exe
-C:\Users\zarreen\Documents\Visual Studio 2017\Projects\zf\Spr2019CS-ArrayCollections\Spr2019CS-ArrayCollections\obj\Debug\Spr2019CS-ArrayCollections.pdb
